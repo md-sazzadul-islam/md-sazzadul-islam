@@ -1,3 +1,6 @@
+Here is the revised `README.md` including icons for the "Technologies" and "Skills & Expertise" sections:
+
+```markdown
 # Hi there, I'm Md Sazzadul Islam 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=md-sazzadul-islam&color=blue)
@@ -15,37 +18,39 @@ I am a Senior Software Engineer with over 9 years of professional experience. I 
   - Software Design & Development
   - Database Administration
   - Mobile Application Development
-- **Technologies:**
-  - PHP
-  - PostgreSQL
-  - MySQL/MariaDB
-  - Vue.js
-  - Node.js
-  - NoSQL (MongoDB)
-  - Flutter
-  - Git
-  - Java
-  - Dart
-  - Python
+
+## Technologies
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ## Skills & Expertise
 
 ### Backend Development
-- **PHP:** Laravel, CodeIgniter (MVC framework)
-- **Node.js**
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white): Laravel, CodeIgniter (MVC framework)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 ### Frontend Development
-- **Vue.js**
-- **React**
+- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
 
 ### Mobile Development
-- **Flutter**
+- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ### Databases
-- **PostgreSQL**
-- **MySQL/MariaDB**
-- **MongoDB**
-
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ## My Motto
 
@@ -80,3 +85,6 @@ I believe in continuous learning and contributing to the community. Check out my
 ---
 
 Thank you for visiting my profile! Feel free to look around and reach out if you have any questions or would like to collaborate on a project.
+```
+
+This version includes icons for the "Technologies" and "Skills & Expertise" sections, making it visually appealing and easier to read.

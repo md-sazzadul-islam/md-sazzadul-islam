@@ -1,6 +1,3 @@
-Here is the revised `README.md` including icons for the "Technologies" and "Skills & Expertise" sections:
-
-```markdown
 # Hi there, I'm Md Sazzadul Islam 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=md-sazzadul-islam&color=blue)
@@ -85,6 +82,3 @@ I believe in continuous learning and contributing to the community. Check out my
 ---
 
 Thank you for visiting my profile! Feel free to look around and reach out if you have any questions or would like to collaborate on a project.
-```
-
-This version includes icons for the "Technologies" and "Skills & Expertise" sections, making it visually appealing and easier to read.

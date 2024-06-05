@@ -35,7 +35,7 @@ I am a Senior Software Engineer with over 9 years of professional experience. I 
 
 ### Backend Development
 - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white): Laravel, CodeIgniter (MVC framework)
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white): ExpressJS, Adonis
 
 ### Frontend Development
 - ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)

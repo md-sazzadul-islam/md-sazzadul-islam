@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" width="1200" height="330" role="img" aria-labelledby="t d">
+  <title id="t">How I deliver software: Understand, Build, Prove, Roll out</title>
+  <desc id="d">Four rising steps. 01 Understand the process with the people who run it. 02 Build across web, mobile and SAP. 03 Prove it in UAT with real users. 04 Roll out, train and support until it is routine.</desc>
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fffaf9"/><stop offset="1" stop-color="#f1d6d2"/></linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffc2c4"/><stop offset="1" stop-color="#ff9397"/></linearGradient>
+    <linearGradient id="g3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff8a8e"/><stop offset="1" stop-color="#f2545a"/></linearGradient>
+    <linearGradient id="g4" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e8373f"/><stop offset="1" stop-color="#c9151e"/></linearGradient>
+    <radialGradient id="sh" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#5e0a10" stop-opacity=".22"/><stop offset="1" stop-color="#5e0a10" stop-opacity="0"/></radialGradient>
+  </defs>
+  <style>
+    .sans{font-family:'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif}
+    .serif{font-family:'Instrument Serif',Georgia,'Times New Roman',serif;font-style:italic}
+    .cube{animation:hop 6s ease-in-out infinite}
+    .s2 .cube{animation-delay:1.5s}.s3 .cube{animation-delay:3s}.s4 .cube{animation-delay:4.5s}
+    .flow{stroke-dasharray:4 9;animation:flow 1.4s linear infinite}
+    @keyframes hop{0%,30%,100%{transform:translateY(0)}15%{transform:translateY(-8px)}}
+    @keyframes flow{to{stroke-dashoffset:-26}}
+    @media (prefers-reduced-motion:reduce){.cube,.flow{animation:none}}
+  </style>
+
+  <rect x="1" y="1" width="1198" height="328" rx="28" fill="#1b1113" stroke="#f6eeec" stroke-opacity=".14" stroke-width="2"/>
+
+  <!-- connectors -->
+  <g stroke="#ff7a80" stroke-width="2" stroke-linecap="round" fill="none" opacity=".7">
+    <path class="flow" d="M222,176 L378,150"/>
+    <path class="flow" d="M522,146 L678,120"/>
+    <path class="flow" d="M822,116 L978,90"/>
+  </g>
+
+  <!-- step 1: height 30 -->
+  <g class="s1" transform="translate(150,200)">
+    <ellipse cx="0" cy="26" rx="70" ry="12" fill="url(#sh)"/>
+    <g class="cube">
+      <path d="M-60,-30 L0,0 L0,30 L-60,0Z" fill="#dcb4af"/>
+      <path d="M60,-30 L0,0 L0,30 L60,0Z" fill="#c08f8a"/>
+      <path d="M0,-60 L60,-30 L0,0 L-60,-30Z" fill="url(#g1)"/>
+    </g>
+  </g>
+  <!-- step 2: height 60 -->
+  <g class="s2" transform="translate(450,200)">
+    <ellipse cx="0" cy="26" rx="70" ry="12" fill="url(#sh)"/>
+    <g class="cube">
+      <path d="M-60,-60 L0,-30 L0,30 L-60,0Z" fill="#f07075"/>
+      <path d="M60,-60 L0,-30 L0,30 L60,0Z" fill="#cf4f55"/>
+      <path d="M0,-90 L60,-60 L0,-30 L-60,-60Z" fill="url(#g2)"/>
+    </g>
+  </g>
+  <!-- step 3: height 90 -->
+  <g class="s3" transform="translate(750,200)">
+    <ellipse cx="0" cy="26" rx="70" ry="12" fill="url(#sh)"/>
+    <g class="cube">
+      <path d="M-60,-90 L0,-60 L0,30 L-60,0Z" fill="#d9363d"/>
+      <path d="M60,-90 L0,-60 L0,30 L60,0Z" fill="#ae2228"/>
+      <path d="M0,-120 L60,-90 L0,-60 L-60,-90Z" fill="url(#g3)"/>
+    </g>
+  </g>
+  <!-- step 4: height 120 -->
+  <g class="s4" transform="translate(1050,200)">
+    <ellipse cx="0" cy="26" rx="70" ry="12" fill="url(#sh)"/>
+    <g class="cube">
+      <path d="M-60,-120 L0,-90 L0,30 L-60,0Z" fill="#9c0f16"/>
+      <path d="M60,-120 L0,-90 L0,30 L60,0Z" fill="#6f0a10"/>
+      <path d="M0,-150 L60,-120 L0,-90 L-60,-120Z" fill="url(#g4)"/>
+    </g>
+  </g>
+
+  <!-- captions -->
+  <g class="sans" text-anchor="middle">
+    <g transform="translate(150,272)">
+      <text font-size="19" font-weight="700" fill="#f6eeec"><tspan class="serif" font-weight="400" font-size="19" fill="#ff7a80">01  </tspan>Understand</text>
+      <text y="24" font-size="13.5" fill="#b7a6a8">The process, with the people who run it</text>
+    </g>
+    <g transform="translate(450,272)">
+      <text font-size="19" font-weight="700" fill="#f6eeec"><tspan class="serif" font-weight="400" font-size="19" fill="#ff7a80">02  </tspan>Build</text>
+      <text y="24" font-size="13.5" fill="#b7a6a8">Web, mobile and SAP, integrated</text>
+    </g>
+    <g transform="translate(750,272)">
+      <text font-size="19" font-weight="700" fill="#f6eeec"><tspan class="serif" font-weight="400" font-size="19" fill="#ff7a80">03  </tspan>Prove</text>
+      <text y="24" font-size="13.5" fill="#b7a6a8">UAT with real users and real data</text>
+    </g>
+    <g transform="translate(1050,272)">
+      <text font-size="19" font-weight="700" fill="#f6eeec"><tspan class="serif" font-weight="400" font-size="19" fill="#ff7a80">04  </tspan>Roll out</text>
+      <text y="24" font-size="13.5" fill="#b7a6a8">Train, support, until it is routine</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="">
+  <defs>
+    <radialGradient id="g" cx=".35" cy=".3" r=".8"><stop offset="0" stop-color="#ff7a80"/><stop offset=".55" stop-color="#c9151e"/><stop offset="1" stop-color="#8f0d14"/></radialGradient>
+  </defs>
+  <style>.f{animation:f 4s ease-in-out infinite}@keyframes f{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}@media (prefers-reduced-motion:reduce){.f{animation:none}}</style>
+  <ellipse cx="32" cy="58" rx="16" ry="3.5" fill="#5e0a10" opacity=".25"/>
+  <g class="f">
+    <circle cx="32" cy="30" r="21" fill="url(#g)"/>
+    <ellipse cx="24" cy="20" rx="7" ry="4" fill="#fff" opacity=".35" transform="rotate(-30 24 20)"/>
+  </g>
+</svg>

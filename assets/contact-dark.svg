@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 250" width="1200" height="250" role="img" aria-labelledby="t d">
+  <title id="t">Get in touch with Md. Sazzadul Islam</title>
+  <desc id="d">Have a process that should be software? ERP, SAP integration, sales automation or mobile apps. Get in touch at sazzadul.com.</desc>
+  <defs>
+    <clipPath id="card"><rect x="1" y="1" width="1198" height="248" rx="28"/></clipPath>
+    <radialGradient id="red" cx=".35" cy=".3" r=".8"><stop offset="0" stop-color="#ef4a52"/><stop offset=".55" stop-color="#c9151e"/><stop offset="1" stop-color="#8f0d14"/></radialGradient>
+    <radialGradient id="coral" cx=".35" cy=".3" r=".8"><stop offset="0" stop-color="#ffa3a6"/><stop offset=".6" stop-color="#ff6b70"/><stop offset="1" stop-color="#e0444a"/></radialGradient>
+    <radialGradient id="blush" cx=".35" cy=".3" r=".8"><stop offset="0" stop-color="#fff3f1"/><stop offset=".6" stop-color="#f3d3cf"/><stop offset="1" stop-color="#d9a5a0"/></radialGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff9a9d"/><stop offset="1" stop-color="#e8474d"/></linearGradient>
+    <radialGradient id="sh" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#5e0a10" stop-opacity=".24"/><stop offset="1" stop-color="#5e0a10" stop-opacity="0"/></radialGradient>
+
+  </defs>
+  <style>
+    .sans{font-family:'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif}
+    .serif{font-family:'Instrument Serif',Georgia,'Times New Roman',serif;font-style:italic}
+    .drift{animation:drift 9s ease-in-out infinite}
+    .drift.x{animation-duration:12s;animation-delay:-5s}
+    .bob{animation:bob 6s ease-in-out infinite}
+    .flow{stroke-dasharray:4 9;animation:flow 1.4s linear infinite}
+    @keyframes drift{0%,100%{transform:translate(0,0)}50%{transform:translate(6px,-12px)}}
+    @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+    @keyframes flow{to{stroke-dashoffset:-26}}
+    @keyframes tilt{0%,100%{transform:rotate(-8deg)}50%{transform:rotate(10deg) translateY(-8px)}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <rect x="1" y="1" width="1198" height="248" rx="28" fill="#1b1113"/>
+  <g clip-path="url(#card)">
+    <ellipse cx="1000" cy="226" rx="170" ry="20" fill="url(#sh)"/>
+    <circle class="drift x" cx="1010" cy="118" r="82" fill="url(#red)"/>
+    <ellipse cx="982" cy="84" rx="22" ry="12" fill="#fff" opacity=".28" transform="rotate(-30 982 84)"/>
+    <circle class="drift" cx="1128" cy="176" r="40" fill="url(#blush)"/>
+    <circle class="drift" cx="902" cy="188" r="22" fill="url(#coral)"/>
+    <g style="animation:tilt 14s ease-in-out infinite;transform-origin:1120px 62px">
+      <ellipse cx="1120" cy="66" rx="28" ry="18" fill="none" stroke="#b9353b" stroke-width="18" opacity=".35"/>
+      <ellipse cx="1120" cy="62" rx="28" ry="18" fill="none" stroke="url(#ring)" stroke-width="18"/>
+      <path d="M1096,53 A28,18 0 0 1 1134,46" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" opacity=".55"/>
+    </g>
+    <g class="bob"><g transform="translate(868,54)">
+      <path d="M-26,0 L0,13 L0,43 L-26,30Z" fill="#e04a50"/>
+      <path d="M26,0 L0,13 L0,43 L26,30Z" fill="#b9353b"/>
+      <path d="M0,-13 L26,0 L0,13 L-26,0Z" fill="#ffa3a6"/>
+    </g></g>
+  </g>
+  <text class="serif" x="64" y="98" font-size="40" fill="#ff7a80">Have a process that should be software?</text>
+  <text class="sans" x="64" y="134" font-size="16.5" fill="#b7a6a8">ERP, SAP integration, sales automation or mobile apps. I'm glad to talk.</text>
+  <g class="sans">
+    <rect x="64" y="169" width="232" height="46" rx="23" fill="#6f0a10"/>
+    <rect x="64" y="162" width="232" height="46" rx="23" fill="#c9151e"/>
+    <text x="180" y="191" text-anchor="middle" font-size="16.5" font-weight="700" fill="#fff">Get in touch  →</text>
+    <text x="318" y="191" font-size="15.5" fill="#f6eeec">sazzadul.com</text>
+  </g>
+  <rect x="1" y="1" width="1198" height="248" rx="28" fill="none" stroke="#f6eeec" stroke-opacity=".14" stroke-width="2"/>
+</svg>

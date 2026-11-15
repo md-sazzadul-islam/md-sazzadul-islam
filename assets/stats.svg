@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" width="1200" height="430" role="img" aria-labelledby="t d">
+  <title id="t">GitHub in numbers for md-sazzadul-islam</title>
+  <desc id="d">7 public repositories; 114 stars earned; 2338 followers; 9 years on GitHub. Top languages: PHP 46%, Python 33%, JavaScript 18%, Dart 2%, CSS 1%.</desc>
+  <defs>
+    <linearGradient id="b0" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e8373f"/><stop offset="1" stop-color="#c9151e"/></linearGradient>
+    <linearGradient id="b1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f25a61"/><stop offset="1" stop-color="#dc2f37"/></linearGradient>
+    <linearGradient id="b2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff8a8e"/><stop offset="1" stop-color="#f2545a"/></linearGradient>
+    <linearGradient id="b3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffc2c4"/><stop offset="1" stop-color="#ff9397"/></linearGradient>
+    <linearGradient id="b4" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fbe4e1"/><stop offset="1" stop-color="#ecc5c0"/></linearGradient>
+    <linearGradient id="b5" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#f6efed"/></linearGradient>
+    <radialGradient id="sh" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#5e0a10" stop-opacity=".25"/><stop offset="1" stop-color="#5e0a10" stop-opacity="0"/></radialGradient>
+  </defs>
+  <style>
+    .sans{font-family:'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif}
+    .serif{font-family:'Instrument Serif',Georgia,'Times New Roman',serif;font-style:italic}
+    .bar{animation:hop 6s ease-in-out infinite}
+    @keyframes hop{0%,24%,100%{transform:translateY(0)}12%{transform:translateY(-9px)}}
+    @media (prefers-reduced-motion:reduce){.bar{animation:none}}
+  </style>
+  <rect x="1" y="1" width="1198" height="428" rx="28" fill="#f2ecea" stroke="#241a1b" stroke-opacity=".14" stroke-width="2"/>
+  <text class="serif" x="64" y="92" font-size="34" fill="#c9151e">GitHub in numbers</text>
+  <g class="sans">
+    <text x="64" y="180" font-size="52" font-weight="700" fill="#241a1b">7</text>
+    <text x="64" y="208" font-size="15" fill="#6d5f61">public repositories</text>
+    <text x="284" y="180" font-size="52" font-weight="700" fill="#241a1b">114</text>
+    <text x="284" y="208" font-size="15" fill="#6d5f61">stars earned</text>
+    <text x="64" y="300" font-size="52" font-weight="700" fill="#241a1b">2338</text>
+    <text x="64" y="328" font-size="15" fill="#6d5f61">followers</text>
+    <text x="284" y="300" font-size="52" font-weight="700" fill="#241a1b">9</text>
+    <text x="284" y="328" font-size="15" fill="#6d5f61">years on GitHub</text>
+  </g>
+  <text class="sans" x="624" y="64" font-size="13" font-weight="700" letter-spacing="1.5" fill="#6d5f61">TOP LANGUAGES</text>
+  <g transform="translate(662,318)">
+    <ellipse cx="0" cy="12" rx="50" ry="10" fill="url(#sh)"/>
+    <g class="bar" style="animation-delay:0.0s">
+      <path d="M-38,-214 L0,-195 L0,19 L-38,0Z" fill="#9c0f16"/>
+      <path d="M38,-214 L0,-195 L0,19 L38,0Z" fill="#6f0a10"/>
+      <path d="M0,-233 L38,-214 L0,-195 L-38,-214Z" fill="url(#b0)"/>
+    </g>
+    <text class="sans" y="52" text-anchor="middle" font-size="15" font-weight="700" fill="#241a1b">PHP</text>
+    <text class="serif" y="74" text-anchor="middle" font-size="16" fill="#c9151e">46%</text>
+  </g>
+  <g transform="translate(766,318)">
+    <ellipse cx="0" cy="12" rx="50" ry="10" fill="url(#sh)"/>
+    <g class="bar" style="animation-delay:0.5s">
+      <path d="M-38,-162 L0,-143 L0,19 L-38,0Z" fill="#b81b23"/>
+      <path d="M38,-162 L0,-143 L0,19 L38,0Z" fill="#8f1219"/>
+      <path d="M0,-181 L38,-162 L0,-143 L-38,-162Z" fill="url(#b1)"/>
+    </g>
+    <text class="sans" y="52" text-anchor="middle" font-size="15" font-weight="700" fill="#241a1b">Python</text>
+    <text class="serif" y="74" text-anchor="middle" font-size="16" fill="#c9151e">33%</text>
+  </g>
+  <g transform="translate(870,318)">
+    <ellipse cx="0" cy="12" rx="50" ry="10" fill="url(#sh)"/>
+    <g class="bar" style="animation-delay:1.0s">
+      <path d="M-38,-100 L0,-81 L0,19 L-38,0Z" fill="#d9363d"/>
+      <path d="M38,-100 L0,-81 L0,19 L38,0Z" fill="#ae2228"/>
+      <path d="M0,-119 L38,-100 L0,-81 L-38,-100Z" fill="url(#b2)"/>
+    </g>
+    <text class="sans" y="52" text-anchor="middle" font-size="15" font-weight="700" fill="#241a1b">JavaScript</text>
+    <text class="serif" y="74" text-anchor="middle" font-size="16" fill="#c9151e">18%</text>
+  </g>
+  <g transform="translate(974,318)">
+    <ellipse cx="0" cy="12" rx="50" ry="10" fill="url(#sh)"/>
+    <g class="bar" style="animation-delay:1.5s">
+      <path d="M-38,-32 L0,-13 L0,19 L-38,0Z" fill="#f07075"/>
+      <path d="M38,-32 L0,-13 L0,19 L38,0Z" fill="#cf4f55"/>
+      <path d="M0,-51 L38,-32 L0,-13 L-38,-32Z" fill="url(#b3)"/>
+    </g>
+    <text class="sans" y="52" text-anchor="middle" font-size="15" font-weight="700" fill="#241a1b">Dart</text>
+    <text class="serif" y="74" text-anchor="middle" font-size="16" fill="#c9151e">2%</text>
+  </g>
+  <g transform="translate(1078,318)">
+    <ellipse cx="0" cy="12" rx="50" ry="10" fill="url(#sh)"/>
+    <g class="bar" style="animation-delay:2.0s">
+      <path d="M-38,-29 L0,-10 L0,19 L-38,0Z" fill="#dcb4af"/>
+      <path d="M38,-29 L0,-10 L0,19 L38,0Z" fill="#c08f8a"/>
+      <path d="M0,-48 L38,-29 L0,-10 L-38,-29Z" fill="url(#b4)"/>
+    </g>
+    <text class="sans" y="52" text-anchor="middle" font-size="15" font-weight="700" fill="#241a1b">CSS</text>
+    <text class="serif" y="74" text-anchor="middle" font-size="16" fill="#c9151e">1%</text>
+  </g>
+</svg>

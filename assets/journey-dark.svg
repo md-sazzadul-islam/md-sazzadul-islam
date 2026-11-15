@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 470" width="1200" height="470" role="img" aria-labelledby="t d">
+  <title id="t">Career of Md. Sazzadul Islam, 2015 to now</title>
+  <desc id="d">Isometric timeline of my roles. Oct 2015 – Apr 2017: Jr. Web Developer, Ronova-it Ltd.. May 2017 – Mar 2019: Software Developer, ABH World. Apr 2019 – Jul 2021: Sr. Executive, Software Engineer, Super Star Group. Aug 2021 – Jul 2022: Sr. Executive, Software Engineer, Gemcon Group. Jul 2022 – now: Deputy Manager (Project Manager), Super Star Group.</desc>
+  <defs>
+    <clipPath id="card"><rect x="1" y="1" width="1198" height="468" rx="28"/></clipPath>
+    <radialGradient id="red" cx=".35" cy=".3" r=".8"><stop offset="0" stop-color="#ef4a52"/><stop offset=".55" stop-color="#c9151e"/><stop offset="1" stop-color="#8f0d14"/></radialGradient>
+    <radialGradient id="coral" cx=".35" cy=".3" r=".8"><stop offset="0" stop-color="#ffa3a6"/><stop offset=".6" stop-color="#ff6b70"/><stop offset="1" stop-color="#e0444a"/></radialGradient>
+    <radialGradient id="blush" cx=".35" cy=".3" r=".8"><stop offset="0" stop-color="#fff3f1"/><stop offset=".6" stop-color="#f3d3cf"/><stop offset="1" stop-color="#d9a5a0"/></radialGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff9a9d"/><stop offset="1" stop-color="#e8474d"/></linearGradient>
+    <radialGradient id="sh" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#5e0a10" stop-opacity=".24"/><stop offset="1" stop-color="#5e0a10" stop-opacity="0"/></radialGradient>
+    <linearGradient id="j0" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fbe4e1"/><stop offset="1" stop-color="#ecc5c0"/></linearGradient>
+    <linearGradient id="j1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffc2c4"/><stop offset="1" stop-color="#ff9397"/></linearGradient>
+    <linearGradient id="j2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff8a8e"/><stop offset="1" stop-color="#f2545a"/></linearGradient>
+    <linearGradient id="j3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f25a61"/><stop offset="1" stop-color="#dc2f37"/></linearGradient>
+    <linearGradient id="j4" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e8373f"/><stop offset="1" stop-color="#c9151e"/></linearGradient>
+  </defs>
+  <style>
+    .sans{font-family:'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif}
+    .serif{font-family:'Instrument Serif',Georgia,'Times New Roman',serif;font-style:italic}
+    .drift{animation:drift 9s ease-in-out infinite}
+    .drift.x{animation-duration:12s;animation-delay:-5s}
+    .bob{animation:bob 6s ease-in-out infinite}
+    .flow{stroke-dasharray:4 9;animation:flow 1.4s linear infinite}
+    @keyframes drift{0%,100%{transform:translate(0,0)}50%{transform:translate(6px,-12px)}}
+    @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+    @keyframes flow{to{stroke-dashoffset:-26}}
+    @keyframes tilt{0%,100%{transform:rotate(-8deg)}50%{transform:rotate(10deg) translateY(-8px)}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <rect x="1" y="1" width="1198" height="468" rx="28" fill="#1b1113"/>
+  <g clip-path="url(#card)">
+    <circle class="drift x" cx="1180" cy="430" r="90" fill="url(#red)"/>
+    <circle class="drift" cx="60" cy="60" r="26" fill="url(#coral)"/>
+    <g style="animation:tilt 14s ease-in-out infinite;transform-origin:1110px 300px">
+      <ellipse cx="1110" cy="304" rx="24" ry="15" fill="none" stroke="#b9353b" stroke-width="16" opacity=".35"/>
+      <ellipse cx="1110" cy="300" rx="24" ry="15" fill="none" stroke="url(#ring)" stroke-width="16"/>
+      <path d="M1090,292 A24,15 0 0 1 1122,287" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" opacity=".55"/>
+    </g>
+  </g>
+  <path d="M104,407 L1041,206" stroke="#5e0a10" stroke-opacity=".07" stroke-width="26" stroke-linecap="round"/>
+  <g><polygon points="150.0,346.0 104.0,371.0 104.0,397.0 150.0,372.0" fill="#c08f8a"/><polygon points="104.0,371.0 236.7,342.6 236.7,368.6 104.0,397.0" fill="#dcb4af"/><polygon points="150.0,346.0 282.7,317.6 236.7,342.6 104.0,371.0" fill="url(#j0)"/></g>
+  <g><polygon points="286.9,306.7 240.9,331.7 240.9,367.7 286.9,342.7" fill="#cf4f55"/><polygon points="240.9,331.7 398.0,298.0 398.0,334.0 240.9,367.7" fill="#f07075"/><polygon points="286.9,306.7 444.0,273.0 398.0,298.0 240.9,331.7" fill="url(#j1)"/></g>
+  <g><polygon points="448.2,262.1 402.2,287.1 402.2,333.1 448.2,308.1" fill="#ae2228"/><polygon points="402.2,287.1 593.7,246.1 593.7,292.1 402.2,333.1" fill="#d9363d"/><polygon points="448.2,262.1 639.7,221.1 593.7,246.1 402.2,287.1" fill="url(#j2)"/></g>
+  <g><polygon points="643.9,210.2 597.9,235.2 597.9,291.2 643.9,266.2" fill="#8f1219"/><polygon points="597.9,235.2 671.0,219.5 671.0,275.5 597.9,291.2" fill="#b81b23"/><polygon points="643.9,210.2 717.0,194.5 671.0,219.5 597.9,235.2" fill="url(#j3)"/></g>
+  <g><polygon points="721.2,179.6 675.2,204.6 675.2,274.6 721.2,249.6" fill="#6f0a10"/><polygon points="675.2,204.6 1040.6,126.3 1040.6,196.3 675.2,274.6" fill="#9c0f16"/><polygon points="721.2,179.6 1086.6,101.3 1040.6,126.3 675.2,204.6" fill="url(#j4)"/></g>
+  <ellipse cx="1034" cy="120" rx="16" ry="6" fill="#3d080c" opacity=".3"/>
+  <g class="bob"><circle cx="1034" cy="96" r="17" fill="url(#blush)"/><ellipse cx="1028" cy="89" rx="5" ry="3" fill="#fff" opacity=".7" transform="rotate(-30 1028 89)"/></g>
+  <path class="flow" d="M193,344 V330" stroke="#ff7a80" stroke-width="2" stroke-linecap="round"/>
+  <g class="sans" text-anchor="middle" transform="translate(193,276)">
+    <text class="serif" font-size="17" fill="#ff7a80">Oct 2015 – Apr 2017</text>
+    <text y="21" font-size="15.5" font-weight="700" fill="#f6eeec">Jr. Web Developer</text>
+    <text y="40" font-size="13.5" fill="#b7a6a8">Ronova-it Ltd.</text>
+  </g>
+  <path class="flow" d="M319,355 V391" stroke="#ff7a80" stroke-width="2" stroke-linecap="round"/>
+  <g class="sans" text-anchor="middle" transform="translate(319,413)">
+    <text class="serif" font-size="17" fill="#ff7a80">May 2017 – Mar 2019</text>
+    <text y="21" font-size="15.5" font-weight="700" fill="#f6eeec">Software Developer</text>
+    <text y="40" font-size="13.5" fill="#b7a6a8">ABH World</text>
+  </g>
+  <path class="flow" d="M521,254 V240" stroke="#ff7a80" stroke-width="2" stroke-linecap="round"/>
+  <g class="sans" text-anchor="middle" transform="translate(521,186)">
+    <text class="serif" font-size="17" fill="#ff7a80">Apr 2019 – Jul 2021</text>
+    <text y="21" font-size="15.5" font-weight="700" fill="#f6eeec">Sr. Executive, Software Engineer</text>
+    <text y="40" font-size="13.5" fill="#b7a6a8">Super Star Group</text>
+  </g>
+  <path class="flow" d="M634,287 V323" stroke="#ff7a80" stroke-width="2" stroke-linecap="round"/>
+  <g class="sans" text-anchor="middle" transform="translate(634,345)">
+    <text class="serif" font-size="17" fill="#ff7a80">Aug 2021 – Jul 2022</text>
+    <text y="21" font-size="15.5" font-weight="700" fill="#f6eeec">Sr. Executive, Software Engineer</text>
+    <text y="40" font-size="13.5" fill="#b7a6a8">Gemcon Group</text>
+  </g>
+  <path class="flow" d="M837,153 V139" stroke="#ff7a80" stroke-width="2" stroke-linecap="round"/>
+  <g class="sans" text-anchor="middle" transform="translate(837,85)">
+    <text class="serif" font-size="17" fill="#ff7a80">Jul 2022 – now</text>
+    <text y="21" font-size="15.5" font-weight="700" fill="#f6eeec">Deputy Manager (Project Manager)</text>
+    <text y="40" font-size="13.5" fill="#b7a6a8">Super Star Group</text>
+  </g>
+  <rect x="1" y="1" width="1198" height="468" rx="28" fill="none" stroke="#f6eeec" stroke-opacity=".14" stroke-width="2"/>
+</svg>

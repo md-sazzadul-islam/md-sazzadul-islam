@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-labelledby="t d">
+  <title id="t">Md. Sazzadul Islam — Software Engineer and Project Manager</title>
+  <desc id="d">I turn business processes into software. Deputy Manager (Project Manager) at Super Star Group, Dhaka. 11+ years, 4 companies, 3 platforms: SAP, web and mobile.</desc>
+  <defs>
+    <clipPath id="card"><rect x="1" y="1" width="1198" height="438" rx="28"/></clipPath>
+    <radialGradient id="red" cx=".35" cy=".3" r=".8">
+      <stop offset="0" stop-color="#ef4a52"/><stop offset=".55" stop-color="#c9151e"/><stop offset="1" stop-color="#8f0d14"/>
+    </radialGradient>
+    <radialGradient id="pink" cx=".35" cy=".3" r=".8">
+      <stop offset="0" stop-color="#fdeeec"/><stop offset=".6" stop-color="#f0cfcb"/><stop offset="1" stop-color="#dba9a4"/>
+    </radialGradient>
+    <radialGradient id="coral" cx=".35" cy=".3" r=".8">
+      <stop offset="0" stop-color="#ffa3a6"/><stop offset=".6" stop-color="#ff6b70"/><stop offset="1" stop-color="#e0444a"/>
+    </radialGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff9a9d"/><stop offset="1" stop-color="#e8474d"/>
+    </linearGradient>
+    <radialGradient id="shadow" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#5e0a10" stop-opacity=".28"/><stop offset="1" stop-color="#5e0a10" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="crTop" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e8373f"/><stop offset="1" stop-color="#c9151e"/></linearGradient>
+    <linearGradient id="coTop" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffa3a6"/><stop offset="1" stop-color="#ff6b70"/></linearGradient>
+    <linearGradient id="clTop" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fffaf9"/><stop offset="1" stop-color="#f1d6d2"/></linearGradient>
+  </defs>
+
+  <style>
+    .sans{font-family:'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif}
+    .serif{font-family:'Instrument Serif',Georgia,'Times New Roman',serif;font-style:italic}
+    .bob{animation:bob 6s ease-in-out infinite}
+    .b2{animation-delay:-2s}
+    .b3{animation-delay:-4s}
+    .drift{animation:drift 9s ease-in-out infinite}
+    .drift.x{animation-duration:12s;animation-delay:-5s}
+    .spin{animation:spin 14s ease-in-out infinite;transform-origin:668px 96px}
+    .flow{stroke-dasharray:4 10;animation:flow 1.6s linear infinite}
+    .flow.r{animation-direction:reverse}
+    .pulse{animation:pulse 6s ease-in-out infinite;transform-origin:900px 412px}
+    @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+    @keyframes drift{0%,100%{transform:translate(0,0)}50%{transform:translate(6px,-12px)}}
+    @keyframes spin{0%,100%{transform:rotate(-8deg)}50%{transform:rotate(10deg) translateY(-8px)}}
+    @keyframes flow{to{stroke-dashoffset:-28}}
+    @keyframes pulse{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(.88);opacity:.6}}
+    @media (prefers-reduced-motion:reduce){.bob,.drift,.spin,.flow,.pulse{animation:none}}
+  </style>
+
+  <rect x="1" y="1" width="1198" height="438" rx="28" fill="#f2ecea"/>
+
+  <!-- clay shapes -->
+  <g clip-path="url(#card)">
+    <circle class="drift" cx="6" cy="-34" r="108" fill="url(#red)"/>
+    <circle class="drift x" cx="1150" cy="30" r="180" fill="url(#pink)"/>
+    <circle class="drift" cx="1168" cy="418" r="34" fill="url(#coral)"/>
+    <g class="spin">
+      <ellipse cx="668" cy="96" rx="30" ry="19" fill="none" stroke="#b9353b" stroke-width="20" transform="translate(0,4)" opacity=".35"/>
+      <ellipse cx="668" cy="96" rx="30" ry="19" fill="none" stroke="url(#ring)" stroke-width="20"/>
+      <path d="M642,86 A30,19 0 0 1 684,79" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" opacity=".55"/>
+    </g>
+    <circle class="drift x" cx="704" cy="356" r="15" fill="url(#coral)"/>
+  </g>
+  <rect x="1" y="1" width="1198" height="438" rx="28" fill="none" stroke="#241a1b" stroke-opacity=".14" stroke-width="2"/>
+
+  <!-- copy -->
+  <g class="sans">
+    <text class="serif in" x="64" y="92" font-size="23" fill="#C9151E">Software engineering &amp; project delivery</text>
+    <text class="in d1" x="62" y="156" font-size="58" font-weight="700" letter-spacing="-1.5" fill="#241a1b">Md. Sazzadul Islam</text>
+    <text class="serif in d2" x="64" y="208" font-size="31" fill="#C9151E">I turn business processes into software.</text>
+    <text class="in d3" x="64" y="242" font-size="15.5" fill="#6d5f61">Deputy Manager (Project Manager) · Super Star Group · Dhaka</text>
+
+    <g class="in d4">
+      <line x1="64" y1="274" x2="600" y2="274" stroke="#241a1b" stroke-opacity=".14" stroke-width="1.5"/>
+      <g transform="translate(64,330)">
+        <text font-size="44" font-weight="700" fill="#241a1b">11<tspan fill="#C9151E">+</tspan></text>
+        <text y="26" font-size="13.5" fill="#6d5f61">years building</text>
+        <text y="45" font-size="13.5" fill="#6d5f61">enterprise software</text>
+      </g>
+      <g transform="translate(256,330)">
+        <text font-size="44" font-weight="700" fill="#241a1b">4</text>
+        <text y="26" font-size="13.5" fill="#6d5f61">companies, web agency</text>
+        <text y="45" font-size="13.5" fill="#6d5f61">to industrial group</text>
+      </g>
+      <g transform="translate(456,330)">
+        <text font-size="44" font-weight="700" fill="#241a1b">3</text>
+        <text y="26" font-size="13.5" fill="#6d5f61">platforms in daily use:</text>
+        <text y="45" font-size="13.5" fill="#6d5f61">SAP, web, mobile</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- isometric stack -->
+  <ellipse class="pulse" cx="900" cy="412" rx="190" ry="24" fill="url(#shadow)"/>
+
+  <line class="flow" x1="760" y1="120" x2="760" y2="330" stroke="#C9151E" stroke-width="2.5" stroke-linecap="round"/>
+  <line class="flow r" x1="1040" y1="120" x2="1040" y2="330" stroke="#241a1b" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- SAP layer -->
+  <g class="bob b3">
+    <g transform="translate(900,310)">
+      <path d="M-140,0 L0,70 L0,90 L-140,20Z" fill="#9c0f16"/>
+      <path d="M140,0 L0,70 L0,90 L140,20Z" fill="#6f0a10"/>
+      <path d="M0,-70 L140,0 L0,70 L-140,0Z" fill="url(#crTop)"/>
+      <path d="M-70,35 L70,-35 M-70,-35 L70,35" stroke="#6f0a10" stroke-width="1.5" opacity=".35"/>
+    </g>
+  </g>
+  <!-- Web layer -->
+  <g class="bob b2">
+    <g transform="translate(900,215)">
+      <path d="M-140,0 L0,70 L0,90 L-140,20Z" fill="#e04a50"/>
+      <path d="M140,0 L0,70 L0,90 L140,20Z" fill="#b9353b"/>
+      <path d="M0,-70 L140,0 L0,70 L-140,0Z" fill="url(#coTop)"/>
+      <path d="M-70,35 L70,-35 M-70,-35 L70,35" stroke="#b9353b" stroke-width="1.5" opacity=".3"/>
+    </g>
+  </g>
+  <!-- Mobile layer -->
+  <g class="bob">
+    <g transform="translate(900,120)">
+      <path d="M-140,0 L0,70 L0,90 L-140,20Z" fill="#dcb4af"/>
+      <path d="M140,0 L0,70 L0,90 L140,20Z" fill="#c08f8a"/>
+      <path d="M0,-70 L140,0 L0,70 L-140,0Z" fill="url(#clTop)"/>
+      <path d="M-70,35 L70,-35 M-70,-35 L70,35" stroke="#c08f8a" stroke-width="1.5" opacity=".4"/>
+      <path d="M0,-28 L56,0 L0,28 L-56,0Z" fill="#c9151e" opacity=".9"/>
+    </g>
+  </g>
+
+  <!-- layer labels -->
+  <g class="sans" font-size="13.5">
+    <g class="bob">
+      <path d="M1046,120 H1072" stroke="#241a1b" stroke-width="1.5"/>
+      <text x="1080" y="117" font-weight="700" fill="#241a1b" letter-spacing="1.2">MOBILE</text>
+      <text x="1080" y="135" font-size="12" fill="#6d5f61">Flutter · Dart</text>
+    </g>
+    <g class="bob b2">
+      <path d="M1046,215 H1072" stroke="#241a1b" stroke-width="1.5"/>
+      <text x="1080" y="212" font-weight="700" fill="#241a1b" letter-spacing="1.2">WEB</text>
+      <text x="1080" y="230" font-size="12" fill="#6d5f61">Laravel · Vue</text>
+    </g>
+    <g class="bob b3">
+      <path d="M1046,310 H1072" stroke="#241a1b" stroke-width="1.5"/>
+      <text x="1080" y="307" font-weight="700" fill="#241a1b" letter-spacing="1.2">SAP</text>
+      <text x="1080" y="325" font-size="12" fill="#6d5f61">ABAP · ERP</text>
+    </g>
+  </g>
+</svg>

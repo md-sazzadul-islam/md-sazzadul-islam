@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffb3b6"/><stop offset="1" stop-color="#ff6b70"/></linearGradient>
+  </defs>
+  <style>.f{animation:f 4s ease-in-out infinite}@keyframes f{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}@media (prefers-reduced-motion:reduce){.f{animation:none}}</style>
+  <ellipse cx="32" cy="59" rx="17" ry="3.5" fill="#5e0a10" opacity=".25"/>
+  <g class="f">
+    <path d="M10,20 L32,31 L32,55 L10,44Z" fill="#e04a50"/>
+    <path d="M54,20 L32,31 L32,55 L54,44Z" fill="#b9353b"/>
+    <path d="M32,9 L54,20 L32,31 L10,20Z" fill="url(#g)"/>
+  </g>
+</svg>

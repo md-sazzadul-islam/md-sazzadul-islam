@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560" role="img" aria-labelledby="t d">
+  <title id="t">Tech stack of Md. Sazzadul Islam</title>
+  <desc id="d">Isometric 3D grid of the technologies I work with: SAP ABAP, Laravel, PHP, CodeIgniter, Node.js, REST APIs, Flutter, Dart, Vue.js, Ionic, MySQL, PostgreSQL, MariaDB, MongoDB, Linux, Git.</desc>
+  <defs>
+    <linearGradient id="sap" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e8373f"/><stop offset="1" stop-color="#c9151e"/></linearGradient>
+    <linearGradient id="back" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffa3a6"/><stop offset="1" stop-color="#ff6b70"/></linearGradient>
+    <linearGradient id="mobile" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fffaf9"/><stop offset="1" stop-color="#f1d6d2"/></linearGradient>
+    <linearGradient id="data" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8a676b"/><stop offset="1" stop-color="#5f4447"/></linearGradient>
+    <linearGradient id="tools" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#f6efed"/></linearGradient>
+    <radialGradient id="sh" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#000000" stop-opacity=".25"/><stop offset="1" stop-color="#000000" stop-opacity="0"/></radialGradient>
+  </defs>
+  <style>
+    .sans{font-family:'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif}
+    .w{animation:w 5s ease-in-out infinite}
+    .w0{animation-delay:-5.0s}
+    .w1{animation-delay:-4.6s}
+    .w2{animation-delay:-4.2s}
+    .w3{animation-delay:-3.8s}
+    .w4{animation-delay:-3.4s}
+    .w5{animation-delay:-3.0s}
+    .w6{animation-delay:-2.6s}
+    @keyframes w{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
+    @media (prefers-reduced-motion:reduce){.w{animation:none}}
+  </style>
+  <rect x="1" y="1" width="1198" height="558" rx="28" fill="#1b1113" stroke="#f6eeec" stroke-opacity=".14" stroke-width="2"/>
+  <ellipse cx="600" cy="292" rx="470" ry="230" fill="url(#sh)"/>
+  <g class="w w0"><g transform="translate(600,96)">
+    <path d="M-96,0 L0,48 L0,64 L-96,16Z" fill="#9c0f16"/>
+    <path d="M96,0 L0,48 L0,64 L96,16Z" fill="#6f0a10"/>
+    <path d="M0,-48 L96,0 L0,48 L-96,0Z" fill="url(#sap)"/>
+    <text class="sans" transform="matrix(.894,.447,-.894,.447,0,0)" text-anchor="middle" dy=".35em" font-size="17" font-weight="700" fill="#ffffff">SAP ABAP</text>
+  </g></g>
+  <g class="w w1"><g transform="translate(496,148)">
+    <path d="M-96,0 L0,48 L0,64 L-96,16Z" fill="#e04a50"/>
+    <path d="M96,0 L0,48 L0,64 L96,16Z" fill="#b9353b"/>
+    <path d="M0,-48 L96,0 L0,48 L-96,0Z" fill="url(#back)"/>
+    <text class="sans" transform="matrix(.894,.447,-.894,.447,0,0)" text-anchor="middle" dy=".35em" font-size="17" font-weight="700" fill="#3d080c">Node.js</text>
+  </g></g>
+  <g class="w w1"><g transform="translate(704,148)">
+    <path d="M-96,0 L0,48 L0,64 L-96,16Z" fill="#e04a50"/>
+    <path d="M96,0 L0,48 L0,64 L96,16Z" fill="#b9353b"/>
+    <path d="M0,-48 L96,0 L0,48 L-96,0Z" fill="url(#back)"/>
+    <text class="sans" transform="matrix(.894,.447,-.894,.447,0,0)" text-anchor="middle" dy=".35em" font-size="17" font-weight="700" fill="#3d080c">Laravel</text>
+  </g></g>
+  <g class="w w2"><g transform="translate(392,200)">
+    <path d="M-96,0 L0,48 L0,64 L-96,16Z" fill="#dcb4af"/>
+    <path d="M96,0 L0,48 L0,64 L96,16Z" fill="#c08f8a"/>
+    <path d="M0,-48 L96,0 L0,48 L-96,0Z" fill="url(#mobile)"/>
+    <text class="sans" transform="matrix(.894,.447,-.894,.447,0,0)" text-anchor="middle" dy=".35em" font-size="17" font-weight="700" fill="#3d080c">Vue.js</text>
+  </g></g>
+  <g class="w w2"><g transform="translate(600,200)">
+    <path d="M-96,0 L0,48 L0,64 L-96,16Z" fill="#e04a50"/>
+    <path d="M96,0 L0,48 L0,64 L96,16Z" fill="#b9353b"/>
+    <path d="M0,-48 L96,0 L0,48 L-96,0Z" fill="url(#back)"/>
+    <text class="sans" transform="matrix(.894,.447,-.894,.447,0,0)" text-anchor="middle" dy=".35em" font-size="17" font-weight="700" fill="#3d080c">REST APIs</text>
+  </g></g>
+  <g class="w w2"><g transform="translate(808,200)">
+    <path d="M-96,0 L0,48 L0,64 L-96,16Z" fill="#e04a50"/>
+    <path d="M96,0 L0,48 L0,64 L96,16Z" fill="#b9353b"/>
+    <path d="M0,-48 L96,0 L0,48 L-96,0Z" fill="url(#back)"/>
+    <text class="sans" transform="matrix(.894,.447,-.894,.447,0,0)" text-anchor="middle" dy=".35em" font-size="17" font-weight="700" fill="#3d080c">PHP</text>
+  </g></g>
+  <g class="w w3"><g transform="translate(288,252)">
+    <path d="M-96,0 L0,48 L0,64 L-96,16Z" fill="#463134"/>
+    <path d="M96,0 L0,48 L0,64 L96,16Z" fill="#332325"/>
+    <path d="M0,-48 L96,0 L0,48 L-96,0Z" fill="url(#data)"/>
+    <text class="sans" transform="matrix(.894,.447,-.894,.447,0,0)" text-anchor="middle" dy=".35em" font-size="17" font-weight="700" fill="#fbf8f7">MariaDB</text>
+  </g></g>
+  <g class="w w3"><g transform="translate(496,252)">
+    <path d="M-96,0 L0,48 L0,64 L-96,16Z" fill="#dcb4af"/>
+    <path d="M96,0 L0,48 L0,64 L96,16Z" fill="#c08f8a"/>
+    <path d="M0,-48 L96,0 L0,48 L-96,0Z" fill="url(#mobile)"/>
+    <text class="sans" transform="matrix(.894,.447,-.894,.447,0,0)" text-anchor="middle" dy=".35em" font-size="17" font-weight="700" fill="#3d080c">Ionic</text>
+  </g></g>
+  <g class="w w3"><g transform="translate(704,252)">
+    <path d="M-96,0 L0,48 L0,64 L-96,16Z" fill="#dcb4af"/>
+    <path d="M96,0 L0,48 L0,64 L96,16Z" fill="#c08f8a"/>
+    <path d="M0,-48 L96,0 L0,48 L-96,0Z" fill="url(#mobile)"/>
+    <text class="sans" transform="matrix(.894,.447,-.894,.447,0,0)" text-anchor="middle" dy=".35em" font-size="17" font-weight="700" fill="#3d080c">Flutter</text>
+  </g></g>
+  <g class="w w3"><g transform="translate(912,252)">
+    <path d="M-96,0 L0,48 L0,64 L-96,16Z" fill="#e04a50"/>
+    <path d="M96,0 L0,48 L0,64 L96,16Z" fill="#b9353b"/>
+    <path d="M0,-48 L96,0 L0,48 L-96,0Z" fill="url(#back)"/>
+    <text class="sans" transform="matrix(.894,.447,-.894,.447,0,0)" text-anchor="middle" dy=".35em" font-size="17" font-weight="700" fill="#3d080c">CodeIgniter</text>
+  </g></g>
+  <g class="w w4"><g transform="translate(392,304)">
+    <path d="M-96,0 L0,48 L0,64 L-96,16Z" fill="#463134"/>
+    <path d="M96,0 L0,48 L0,64 L96,16Z" fill="#332325"/>
+    <path d="M0,-48 L96,0 L0,48 L-96,0Z" fill="url(#data)"/>
+    <text class="sans" transform="matrix(.894,.447,-.894,.447,0,0)" text-anchor="middle" dy=".35em" font-size="17" font-weight="700" fill="#fbf8f7">MongoDB</text>
+  </g></g>
+  <g class="w w4"><g transform="translate(600,304)">
+    <path d="M-96,0 L0,48 L0,64 L-96,16Z" fill="#463134"/>
+    <path d="M96,0 L0,48 L0,64 L96,16Z" fill="#332325"/>
+    <path d="M0,-48 L96,0 L0,48 L-96,0Z" fill="url(#data)"/>
+    <text class="sans" transform="matrix(.894,.447,-.894,.447,0,0)" text-anchor="middle" dy=".35em" font-size="17" font-weight="700" fill="#fbf8f7">MySQL</text>
+  </g></g>
+  <g class="w w4"><g transform="translate(808,304)">
+    <path d="M-96,0 L0,48 L0,64 L-96,16Z" fill="#dcb4af"/>
+    <path d="M96,0 L0,48 L0,64 L96,16Z" fill="#c08f8a"/>
+    <path d="M0,-48 L96,0 L0,48 L-96,0Z" fill="url(#mobile)"/>
+    <text class="sans" transform="matrix(.894,.447,-.894,.447,0,0)" text-anchor="middle" dy=".35em" font-size="17" font-weight="700" fill="#3d080c">Dart</text>
+  </g></g>
+  <g class="w w5"><g transform="translate(496,356)">
+    <path d="M-96,0 L0,48 L0,64 L-96,16Z" fill="#ddd0cd"/>
+    <path d="M96,0 L0,48 L0,64 L96,16Z" fill="#c4b3b0"/>
+    <path d="M0,-48 L96,0 L0,48 L-96,0Z" fill="url(#tools)"/>
+    <text class="sans" transform="matrix(.894,.447,-.894,.447,0,0)" text-anchor="middle" dy=".35em" font-size="17" font-weight="700" fill="#2a1e1f">Linux</text>
+  </g></g>
+  <g class="w w5"><g transform="translate(704,356)">
+    <path d="M-96,0 L0,48 L0,64 L-96,16Z" fill="#463134"/>
+    <path d="M96,0 L0,48 L0,64 L96,16Z" fill="#332325"/>
+    <path d="M0,-48 L96,0 L0,48 L-96,0Z" fill="url(#data)"/>
+    <text class="sans" transform="matrix(.894,.447,-.894,.447,0,0)" text-anchor="middle" dy=".35em" font-size="17" font-weight="700" fill="#fbf8f7">PostgreSQL</text>
+  </g></g>
+  <g class="w w6"><g transform="translate(600,408)">
+    <path d="M-96,0 L0,48 L0,64 L-96,16Z" fill="#ddd0cd"/>
+    <path d="M96,0 L0,48 L0,64 L96,16Z" fill="#c4b3b0"/>
+    <path d="M0,-48 L96,0 L0,48 L-96,0Z" fill="url(#tools)"/>
+    <text class="sans" transform="matrix(.894,.447,-.894,.447,0,0)" text-anchor="middle" dy=".35em" font-size="17" font-weight="700" fill="#2a1e1f">Git</text>
+  </g></g>
+  <g class="sans" font-size="14" fill="#b7a6a8">
+    <rect x="285" y="517" width="14" height="14" rx="4" fill="url(#sap)" stroke="#f6eeec" stroke-opacity=".2"/>
+    <text x="307" y="529">Enterprise &amp; SAP</text>
+    <rect x="465" y="517" width="14" height="14" rx="4" fill="url(#back)" stroke="#f6eeec" stroke-opacity=".2"/>
+    <text x="487" y="529">Backend</text>
+    <rect x="580" y="517" width="14" height="14" rx="4" fill="url(#mobile)" stroke="#f6eeec" stroke-opacity=".2"/>
+    <text x="602" y="529">Mobile &amp; frontend</text>
+    <rect x="770" y="517" width="14" height="14" rx="4" fill="url(#data)" stroke="#f6eeec" stroke-opacity=".2"/>
+    <text x="792" y="529">Data</text>
+    <rect x="860" y="517" width="14" height="14" rx="4" fill="url(#tools)" stroke="#f6eeec" stroke-opacity=".2"/>
+    <text x="882" y="529">Tools</text>
+  </g>
+</svg>
